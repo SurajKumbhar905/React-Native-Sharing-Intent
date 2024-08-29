@@ -1,6 +1,6 @@
 {
   "name": "react-native-sharing-intent",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This Pakage is used for the sharing the files/text/images/videos/URls from a different application to react native application",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
